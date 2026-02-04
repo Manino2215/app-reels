@@ -1,0 +1,4 @@
+[build]
+  base = "filmreels-mobile"
+  command = "npm run build"
+  publish = "dist"
